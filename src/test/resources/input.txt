@@ -1,0 +1,4 @@
+{ "eventName": "newUser", "userId": 1, "name": "user urser" }
+{ "eventName": "deposit", "userId": 1, "amount": 100 }
+{ "eventName": "newUser", "userId": 2, "name": "cata prone" }
+{ "eventName": "transfer", "fromUserId": 1, "toUserId": 2, "amount": 50 }

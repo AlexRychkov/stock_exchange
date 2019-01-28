@@ -1,0 +1,8 @@
+{"result":"NewUserSuccess","object":{"userId":1,"name":"user urser"}}
+{"result":"DepositSuccess","object":{"userId":1,"name":"user urser"}}
+{"result":"NewUserSuccess","object":{"userId":2,"name":"cata prone"}}
+{"result":"TransferSuccess","object":{"eventName":"transfer","fromUserId":1,"toUserId":2,"amount":50}}
+{"result":"NewUserSuccess","object":{"userId":1,"name":"user urser"}}
+{"result":"DepositSuccess","object":{"userId":1,"name":"user urser"}}
+{"result":"NewUserSuccess","object":{"userId":2,"name":"cata prone"}}
+{"result":"TransferSuccess","object":{"eventName":"transfer","fromUserId":1,"toUserId":2,"amount":50}}
